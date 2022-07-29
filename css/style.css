@@ -6,7 +6,7 @@
 .header {
     width: 100%;
     height: 60px;
-    background-color: lightblue;
+    background-color: black    ;
 }
 
 .container {
@@ -26,7 +26,7 @@
     width: 100%;
     height: 300px;
     margin-bottom: 30px;
-    background-color: lightblue;
+    background-color: lightred;
 }
 
 .block1-2 {
@@ -39,7 +39,7 @@
 .block1-3 {
     width: 100%;
     height: 250px;
-    background-color: lightblue;
+    background-color: lightgreen;
 }
 
 .content2 {
@@ -50,7 +50,7 @@
     width: 100%;
     height: 150px;
     margin-bottom: 30px;
-    background-color: lightblue;
+    background-color: lightred;
 }
 
 .block2-2 {
@@ -62,5 +62,5 @@
 .footer {
     width: 100%;
     height: 60px;
-    background-color: lightblue;
+    background-color: black;
 }
